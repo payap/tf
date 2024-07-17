@@ -44,7 +44,7 @@ Each folder's name represents the name of website e.g. abc.com
            The dimension of each network sequence follows the data representation above.
 
 # Reproduce Results
-- We publish the datasets of web traffic traces produced for each experiment. However, due to the limitation on the size of uploaded files set by GitHub, we upload our dataset to google drive repository instead. The dataset can be downloaded from this [link](https://drive.google.com/drive/folders/1Rp1m7yWsoEP4ax79BO6uaUSMmVkrWdtY?usp=sharing). For the source codes, you can directly download from the GitHub's files.
+- We publish the datasets of web traffic traces produced for each experiment. However, due to the limitation on the size of uploaded files set by GitHub, we upload our dataset to google drive repository instead. The dataset can be downloaded from this [link](https://1drv.ms/f/s!AkYL00xsdYhSgbJkGkVYtCcSEa3PbQ?e=GDUbcl). For the source codes, you can directly download from the GitHub's files.
 - You will need to download the corresponding source codes and datasets and places them into your machine, please make sure that the tree of folders are consistent with what is shown in the GitHub files.
 
 ## Similar but mutually exclusive datasets
